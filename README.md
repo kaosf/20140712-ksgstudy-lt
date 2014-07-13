@@ -1,3 +1,9 @@
+# 関西ソーシャルゲーム勉強会2014 LT資料
+
+This repository is source of a slide for the LT in [関西ソーシャルゲーム勉強会・２０１４夏 - 関西ソーシャルゲーム勉強会 | Doorkeeper](http://ksgs.doorkeeper.jp/events/11635).
+
+You can see the slide [here](http://kaosf.github.io/20140712-ksgstudy-lt).
+
 # reveal.js forked by kaosf
 
 Version 2.5.0.0
