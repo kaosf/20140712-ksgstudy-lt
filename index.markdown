@@ -33,7 +33,7 @@ python -m SimpleHTTPServer
 
 ソース見せます
 
-[https://github.com/kaosf/20140712-ksgstudy-lt/index.markdown](https://github.com/kaosf/20140712-ksgstudy-lt/index.markdown)
+[https://raw.githubusercontent.com/kaosf/20140712-ksgstudy-lt/gh-pages/index.markdown](https://raw.githubusercontent.com/kaosf/20140712-ksgstudy-lt/gh-pages/index.markdown)
 
 
 簡単！
