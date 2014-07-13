@@ -197,3 +197,5 @@ LT時に本当に言いたかったことを改めて補足します
 
 
 おわり
+
+当然このスライドも [GitHub 上に公開されてます](https://github.com/kaosf/20140712-ksgstudy-lt) ので誤字脱字の指摘から内容の追加まで任意のご意見を Issues と PullRequest でお待ちしております
